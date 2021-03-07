@@ -1,7 +1,7 @@
 # flutter_mike_login
 #cc206-appdev-final-output
 
-##Hi!##
+**Hi There!** :wave:
 
 Welcome to our little fun Login App, featuring Mike Wazowski
 
