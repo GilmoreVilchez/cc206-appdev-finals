@@ -1,13 +1,14 @@
 # flutter_mike_login
 
 
-**Hi There!** :wave:
+:wave: :wave:**Hi There!** :wave: :wave:
 
 Welcome to our little fun Login App, featuring Mike Wazowski 
 
 <img src="https://www.seekpng.com/png/full/67-674595_monsters-inc-png.png" width="100" height="100">
 
 *of Monsters Inc.!*
+
 This was developed in fullfillment of our final output for the Subject: CC 206- Applications
 Development. 
 
