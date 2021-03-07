@@ -1,5 +1,5 @@
 # flutter_mike_login
-#cc206-appdev-final-output
+cc206-appdev-final-output
 
 **Hi There!** :wave:
 
@@ -8,24 +8,25 @@ Welcome to our little fun Login App, featuring Mike Wazowski
 <img src="https://www.seekpng.com/png/full/67-674595_monsters-inc-png.png" width="100" height="100">
 of Monsters Inc.!
 This was developed in fullfillment of our final output for the Subject: CC 206- Applications
-Development. In order to run the app, you must prepare a connected Android Device/Emulator to your used
-compiler(e.g, VSCode, Android Studio), then locate the main.dart of the program (cc206-appdev-finals/lib/) and run from there.
+Development. 
 
-To Use:
+In order to run the app, you must prepare a connected Android Device/Emulator to your used
+compiler *(e.g, VSCode, Android Studio)*, then locate the main.dart of the program (cc206-appdev-finals/lib/) and run from there.
 
-The Email:  cictapps@wvsu.edu.ph
-Password:toor
 
-should be entered to proceed to a home screen. Any other inputs will not be accepted by the program.
+**Email:**  cictapps@wvsu.edu.ph
+**Password:** toor
 
-###Contributors###
+should be entered to proceed to a home screen. Any other inputs *will not be accepted* by the program.
 
-Designers:
+**Contributors**
+
+:sparkles: Designers:  :sparkles:
 
 Aris Ernst Tabaque
 Prince Deo Solanib
 
-Programmers:
+:dart: Programmers: :dart:
 
 Gilmore Vilchez
 Danica Marie Lebrilla
