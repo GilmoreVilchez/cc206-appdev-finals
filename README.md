@@ -15,7 +15,8 @@ compiler *(e.g, VSCode, Android Studio)*, then locate the main.dart of the progr
 
 
 **Email:**  cictapps@wvsu.edu.ph
-**Password:** toor
+
+**Pass:** toor
 
 should be entered to proceed to a home screen. Any other inputs *will not be accepted* by the program.
 
