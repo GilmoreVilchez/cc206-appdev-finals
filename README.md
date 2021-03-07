@@ -6,7 +6,7 @@
 Welcome to our little fun Login App, featuring Mike Wazowski of Monsters Inc.!
 This was developed in fullfillment of our final output for the Subject: CC 206- Applications
 Development. In order to run the app, you must prepare a connected Android Device/Emulator to your used
-compiler(e.g, VSCode, Android Studio), then locate the main.dart of the program and run from there.
+compiler(e.g, VSCode, Android Studio), then locate the main.dart of the program (cc206-appdev-finals/lib/) and run from there.
 
 To Use:
 
