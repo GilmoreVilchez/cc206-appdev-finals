@@ -1,5 +1,5 @@
 # flutter_mike_login
-cc206-appdev-final-output
+
 
 **Hi There!** :wave:
 
@@ -21,14 +21,16 @@ should be entered to proceed to a home screen. Any other inputs *will not be acc
 
 **Contributors**
 
-:sparkles: Designers:  :sparkles:
+:sparkles: *Designers:*  :sparkles:
 
 Aris Ernst Tabaque
+
 Prince Deo Solanib
 
-:dart: Programmers: :dart:
+:dart: *Programmers:* :dart:
 
 Gilmore Vilchez
+
 Danica Marie Lebrilla
 
 
