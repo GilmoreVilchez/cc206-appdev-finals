@@ -4,8 +4,8 @@
 ##Hi!##
 
 Welcome to our little fun Login App, featuring Mike Wazowski
-![alt text](https://www.seekpng.com/png/full/67-674595_monsters-inc-png.png){:height="200px" width="500px"}
 
+<img src="https://www.seekpng.com/png/full/67-674595_monsters-inc-png.png" width="100" height="100">
 of Monsters Inc.!
 This was developed in fullfillment of our final output for the Subject: CC 206- Applications
 Development. In order to run the app, you must prepare a connected Android Device/Emulator to your used
